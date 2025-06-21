@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "t-shirt",
+        "category": "paid"
+    },
+    {
+        "id": 2,
+        "name": "pant",
+        "category": "paid"
+    },
+    {
+        "id": 3,
+        "name": "jeans",
+        "category": "paid"
+    },
+    {
+        "id": 4,
+        "name": "jeans",
+        "category": "paid"
+    },
+    {
+        "id": 5,
+        "name": "jeans",
+        "category": "paid"
+    },
+    {
+        "id": 6,
+        "name": "jeans",
+        "category": "paid"
+    },
+    {
+        "id": 7,
+        "name": "jeans",
+        "category": "paid"
+    },
+    {
+        "id": 8,
+        "name": "jeans",
+        "category": "paid"
+    },
+    {
+        "id": 9,
+        "name": "jeans",
+        "category": "paid"
+    },
+    {
+        "id": 10,
+        "name": "jeans",
+        "category": "paid"
+    }
+]

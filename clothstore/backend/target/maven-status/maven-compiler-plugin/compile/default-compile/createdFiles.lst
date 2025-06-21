@@ -1,0 +1,11 @@
+com\tryon\controller\UserController.class
+com\tryon\model\ClothingItem.class
+com\tryon\repository\UserRepository.class
+com\tryon\service\UserService.class
+com\tryon\repository\ClothingItemRepository.class
+com\tryon\service\IUserService.class
+com\tryon\service\ClothingItemService.class
+com\tryon\service\IClothingItemService.class
+com\tryon\VirtualTryOnBackendApplication.class
+com\tryon\model\User.class
+com\tryon\controller\ClothingItemController.class

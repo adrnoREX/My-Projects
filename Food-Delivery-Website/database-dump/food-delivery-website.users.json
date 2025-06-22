@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "664cb251edffd350729184c0"
+  },
+  "name": "falguni",
+  "email": "falguni@gmail.com",
+  "password": "$2b$10$GeXQDsFtokfvEvH/bQGXyeIdJe.3dAmF2UFulrQPpLafpRydzeVoC",
+  "cartData": {
+    "664cde44ef0ee09328b6b8ff": 0,
+    "664cde08ef0ee09328b6b8fc": 2,
+    "664cdea4ef0ee09328b6b903": 0,
+    "664cd6e9ef0ee09328b6b8a2": 2
+  }
+},
+{
+  "_id": {
+    "$oid": "664b99894cb44f1c12686889"
+  },
+  "name": "RupamSen",
+  "email": "rupamsen@gmail.com",
+  "password": "$2b$10$M0B1S9r6Yr3HfRVqYcnwCutLIqFoGL18iYnRfgUYC8MnHVbcSgldO",
+  "__v": 0,
+  "cartData": {
+    "664cdea4ef0ee09328b6b903": 0,
+    "664cdee2ef0ee09328b6b906": 0
+  }
+}]
